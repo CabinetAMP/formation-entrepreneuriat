@@ -898,8 +898,13 @@ color: #1acc8d;
   padding: 30px 30px 25px 30px;
   width: 100%;
   position: relative;
-  text-align: center;
   background: #fff;
+}
+.counts .count-box .aligner{
+  position: relative;
+
+  text-align: center;
+  
 }
 .counts .count-box i {
   position: absolute;
